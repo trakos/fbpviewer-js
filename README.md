@@ -1,5 +1,7 @@
 # Factorio Blueprint Viewer (fbpviewer)
 
+## This repo has been archived, as code has been moved to [fbpviewer repo](https://github.com/trakos/fbpviewer).
+
 This is a simple javascript canvas viewer for factorio blueprints.
 
 Live version available here: [http://fbpviewer.trakos.pl/](http://fbpviewer.trakos.pl/)
